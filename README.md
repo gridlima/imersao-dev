@@ -2,3 +2,8 @@
 
 Reademe  do repositorio.
 Instruções abaixo.
+
+
+Informação nova:
+Sorteio!!!
+
