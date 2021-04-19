@@ -1,4 +1,2 @@
-# Oi Pessoal :)
-
-Reademe  do repositorio.
-Instruções abaixo.
+Exercícios elaborados nas aulas de imersão do Alura;
+html, css e javascript.
